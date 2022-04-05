@@ -4,5 +4,22 @@
   },
   "scripts": {
     "test": "jest"
-  }
+  },
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ModiFir3/jest-another-RPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ModiFir3/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/ModiFir3/jest-another-RPG#readme",
+  "description": ""
 }
